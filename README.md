@@ -11,7 +11,7 @@ Java, JavaFX, fxml, CSS
 
 # Environments used
 <ul>
-  <li>NetBeans 19</li>
+  <li>Apache NetBeans IDE 19</li>
   <li>JavaFX-SDK-21.0.1</li>
   <li>JDK 17</li>
 </ul>
